@@ -1,0 +1,33 @@
+.hicard{
+    background-color: gold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 4px;
+}
+.imageres{
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+}
+.one{
+    font-weight: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headfirst{
+    color: white;
+    text-align: center;
+}
+.move{
+    color: black;
+}
+.bgimg{
+background-image:url("https://res.cloudinary.com/dfmkbhcdt/image/upload/v1669188710/flat-black-friday-background_52683-72442_bzphpm.jpg");
+}
+.move{
+    color: chocolate;
+    font-size: 25px;
+    font-weight: bold;
+}
+
